@@ -1,0 +1,375 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#contenedor{
+    width: 1665px;
+    height: 1300px;
+    margin: 0.5em auto;
+    padding: 0.5em;
+    background-image: url(../images/bg-element-23as.jpg);
+    background-size: 100% 100%;
+}
+
+#header{
+    height: 10%;
+    padding-left: 1cm;
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+    color: gold;
+}
+
+
+#datos{
+    height: 60%;
+}
+
+#footer{
+    height: 30%;
+    border-radius: 1em;
+    text-align: center;
+    color: gold;
+
+}
+
+#nav{
+    height: 90%;
+    width: 0%;
+    border-radius: 1em;
+    float: left;
+    margin: 1em;
+    text-align:center;
+    color: gold;
+    line-height: 1cm;
+}
+
+#noti{
+    height: 85%;
+    width: 85%;
+    border-radius: 1em;
+    float: right;
+    text-align: center;
+}
+
+.update{
+    width: 73%;
+    height: 53%;
+    margin-left: 0.5%;
+    border-radius: 1em;
+    text-align: center;
+    color: #ffd700;
+    margin: 5em;
+    line-height: 2em;
+    font-size: 17px;
+    
+}
+
+.winners{
+    width: 88%;
+    height: 55%;
+    border-radius: 1em;
+    text-align: center;
+    color: gold;
+    line-height: 2em;
+    font-size: 18px;
+}
+
+.btn{
+    position: relative;
+    display:block;
+    height: auto;
+    width: auto;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: small;
+    overflow: hidden;
+    border: 2px solid gold;
+    margin-bottom: 10px;
+    z-index: 0;
+    font-weight: 200;
+    background-color: gold;
+}
+.btm{
+    position: relative;
+    color: #ffd700;
+}
+
+.btn:hover{
+    background-color: goldenrod;
+    border: 2px solid goldenrod;
+    transition: 1s;
+}
+
+#logcontenedor{
+    width: 1665px;
+    height: 1300px;
+    margin: 0.5em auto;
+    padding: 0.5em;
+    background-image: url(../images/Kerpes.png);
+    background-size: 100% 100%;
+
+}
+
+#loghead{
+    height: 10%;
+    padding-left: 1cm;
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+    color: gold;
+}
+
+#login{
+    height: 85%;
+    width: 85%;
+    border-radius: 1em;
+    float: right;
+    text-align: center;
+    position: relative;
+}
+
+.sesion{
+    width: 73%;
+    height: 53%;
+    margin-left: 0.5%;
+    border-radius: 1em;
+    text-align: center;
+    color: #ffd700;
+    margin: 5em;
+    line-height: 2em;
+    font-size: 17px;
+}
+
+.controls {
+    width: 100%;
+    background: #2053df;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid gold;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: gold
+  }
+
+#footerlog{
+    height: 40%;
+    border-radius: 1em;
+    text-align: center;
+    color: gold;
+    padding-top: auto;
+}
+
+
+#formContain{
+    width: 1665px;
+    height: 1300px;
+    margin: 0.5em auto;
+    padding: 0.5em;
+    background-image: url(../images/Registro.jpg);
+    background-size: 100% 100%;
+
+}
+
+#formhead{
+    height: 10%;
+    padding-left: 1cm;
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+    color: rgb(1, 26, 17);
+}
+
+#register{
+    height: 85%;
+    width: 85%;
+    border-radius: 1em;
+    float: right;
+    text-align: center;
+    position: relative;
+}
+
+.form-register{
+    width: 73%;
+    height: 53%;
+    margin-left: 0.5%;
+    border-radius: 1em;
+    text-align: center;
+    color: #ffd700;
+    margin: 5em;
+    line-height: 2em;
+    font-size: 17px;
+}
+
+.control {
+    width: 100%;
+    background: gold;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(19, 16, 2);
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(5, 4, 0)
+}
+
+#footerForm{
+    height: 40%;
+    border-radius: 1em;
+    text-align: center;
+    color: gold;
+}
+
+
+#contenedorContact{
+    width: 1665px;
+    height: 1300px;
+    margin: 0.5em auto;
+    padding: 0.5em;
+    background-image: url(../images/4454552-fantasy-wallpapers.jpg);
+    background-size: 100% 100%;
+}
+
+#contacthead{
+    height: 10%;
+    padding-left: 1cm;
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+    color: gold
+}
+
+#contactData{
+    height: 85%;
+    width: 85%;
+    border-radius: 1em;
+    float: right;
+    text-align: center;
+    position: relative;
+}
+
+.contactForm{
+    width: 54%;
+    height: 53%;
+    margin-left: 0.5%;
+    border-radius: 1em;
+    text-align: center;
+    color: #ffd700;
+    margin: 5em;
+    line-height: 2em;
+    font-size: 17px;
+}
+
+.inputContact{
+    width: 50%;
+    margin-bottom:20px;
+    padding:3px;
+    box-sizing:border-box;
+    font-size:15px;
+    position:relative;
+}
+
+.contactTitle{
+    padding-right: 10em;
+    color: gold;
+}
+
+.imagen1{
+    width: 50px;
+    height: 50px;
+}
+.imagen2{
+    width: 50px;
+    height: 50px;
+    padding-left: 90%;
+}
+
+.copyright{
+    text-align: right;
+}
+
+.contenidogr{
+    line-height: normal}
+    
+    .contenedorgr{
+        background-image: url(../images/foto1.jpg);
+        background-size: 100% 100%;
+        width: 90%;
+        max-width: 1000px;
+        margin: 20px auto;
+        display: grid;
+        grid-gap: 20px;
+        grid-template-columns: repeat(4,1fr);
+        grid-template-rows: repeat(4,auto);
+        grid-template-areas: "header header header header"
+                             "contenido contenido contenido menu"
+                             "fotos fotos videos videos"
+                             "footer footer footer footer";
+    }
+    
+    .contenedorgr
+    .contenedorgr .headergr,
+    .contenedorgr .contenidogr,
+    .contendorgr .menugr,
+    .contendorgr .footergr,{
+        padding:20px;
+        border-radius:4px;
+    }
+    
+    .contenedorgr .headergr {
+        color: white;
+        grid-area: header;
+        text-align: center;
+    }
+    
+    .contenedorgr .contenidogr{
+        grid-area: contenido;
+        color: #ffffff;
+    }
+    
+    .contenedorgr .menugr{
+        grid-column: 3 / 4;
+        text-align: center;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+        min-height: 100px;
+        grid-area: menu;
+        color: #ffffff;
+    }
+    
+    .fotosgr{
+        color: white;
+        height: 100px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        grid-area: fotos;
+    }
+    
+    .videosgr{
+        color: white;
+        height: 100px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        grid-area: videos;
+    }
+    
+    .footergr{
+        color: white;
+        grid-area: footer;
+        text-align: center;
+    }
+    
+    @media screen and (max-width: 720px){
+        .contenedorgr{
+            grid-template-areas: "headergr headergr headergr headergr"
+                             "contenidogr contenidogr contenidogr menugr"
+                             "fotosgr videogr videogr videogr"
+                             "footergr footergr footergr footergr";
+    }
